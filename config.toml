@@ -4,12 +4,13 @@ title = "原田建設"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 publishDir = "docs"
+canonifyurls = true
 
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.55.0"
-    
+
 [params]
   google_analytics_id=""
 
