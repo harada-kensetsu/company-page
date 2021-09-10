@@ -1,6 +1,6 @@
-baseURL = "/"
-languageCode = "ja-JP"
-title = "原田建設"
+baseURL = "https://harada-kensetsu.github.io/"
+languageCode = "ja"
+title = "原田建設｜埼玉県入間市の地域に寄りそう工務店"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 publishDir = "docs"
@@ -15,15 +15,15 @@ canonifyurls = true
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "原田建設は埼玉県入間市にある工務店です。"
+    meta_og_title = "原田建設"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_url = "https://harada-kensetsu.github.io/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "原田建設は埼玉県入間市にある工務店です。"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@"
+    meta_twitter_creator = "@"
 
 [[menu.main]]
 	name = "注文住宅"
@@ -42,12 +42,12 @@ canonifyurls = true
 
 
 [[menu.main]]
-    name = "歴史"
+    name = "原田建設のこれまで"
     url = "/history/"
     weight = 3
 
 [[menu.main]]
-    name = "連絡先"
+    name = "コンタクト"
     url = "/contact/"
     weight = 4
 
