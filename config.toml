@@ -3,7 +3,7 @@ languageCode = "ja"
 title = "原田建設｜埼玉県入間市の地域に寄りそう工務店"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-publishDir = "docs"
+publishDir = "public"
 canonifyurls = true
 
 [module]
