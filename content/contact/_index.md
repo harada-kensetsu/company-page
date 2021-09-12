@@ -1,6 +1,6 @@
 ---
-title: 'Contact'
+title: 'コンタクト'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-We offer a free consultation for all new clients.
+注文住宅、リフォーム、外構工事、何でもご相談下さい。無料でお見積りします。

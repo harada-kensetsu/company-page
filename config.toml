@@ -26,7 +26,7 @@ canonifyurls = true
     meta_twitter_creator = "@"
 
 [[menu.main]]
-	name = "注文住宅"
+	name = "家づくりについて"
 	url = "/services/"
     weight = 1
 

@@ -40,3 +40,8 @@
 @import "mixins/grid-framework";
 @import "mixins/grid";
 @import "mixins/float";
+
+// fonts
+@import 'mixins/fonts';
+
+@include font-face(F66FudeRenjyou, '../fonts/F66FudeRenjyou', null, $font-size-base, $font-weight-base, null, ttf);

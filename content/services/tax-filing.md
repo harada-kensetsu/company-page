@@ -1,50 +1,48 @@
 ---
-title: 'Tax Filing'
+title: '家づくりの流れ'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Filing '
-heroSubHeading: 'Preparing and filing your tax return'
+heroHeading: '家づくりの流れ'
+heroSubHeading: '家づくりの流れについてご説明します'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+はじめての家づくりで何から始めてよいか分からない方も多いはず、家づくりの流れをご紹介します。
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+家を建てたいが何から始めればよいのか？原田建設の家はどのような家？このようなご相談からでも全く問題ありません。
+先ずはお問合せいただき、現在の状況やご希望、将来的な設計まで詳細を伺います。
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+## お施主様宅見学、資金計画
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+お施主様宅の見学（日程要調整）を行い、実際に建っている原田建設の家を体感ください。住宅ローン融資や資金計画についてもお気軽にご相談下さい。
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+## 土地探し
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+希望のエリアや条件を洗い出し、焦らずに理想の暮らしを実現できる土地を探します。
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+## ヒアリング
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+ご趣味やご要望を伺い、間取りや施工事例をご紹介します。
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+## 詳細設計・打合せ
+
+## お見積り
+
+ご要望から間取りや素材をある程度決め、お見積りいたします（2-3週間程)。
+
+## 地盤調査
+
+## 地鎮祭
+
+## 着工
+
+## 上棟
+
+## お施主様立会会
+
+## お引渡し
+
+## お引越し

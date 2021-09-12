@@ -1,9 +1,9 @@
 ---
-title: 'Integrity & Performance'
+title: '私たちは誠実さを約束します'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+「誠実さ」が無ければ、よいコミュニケーションが取れず結果的にコミュニケーションコストが増えてしまったり出来た成果物のクオリティに悪影響が出てしまいます。

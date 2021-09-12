@@ -1,9 +1,13 @@
 ---
-title: 'No Limits'
+title: '私たちは熱意を約束します'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
 background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 align: right
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+見えている課題を如何にして解決することが出来るのか。あらゆる選択肢の中から多角的な視点を持って適切な解法を導くのは容易なことではありません。
+
+そこには「持続する熱意」が必要で、日々研鑚していく必要のあるスキルセットも併せ身に着けていかねばなりません。
+
+私たちは日々研鑚に励み、時代とニーズに沿った選択肢の中からベストな方法で、コスト最適化を行いつつお客様のご要望を実現します。
