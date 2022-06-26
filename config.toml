@@ -5,6 +5,7 @@ themesDir = "themes"
 theme = "hugo-hero-theme"
 publishDir = "public"
 canonifyurls = true
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
@@ -31,15 +32,9 @@ canonifyurls = true
     weight = 1
 
 [[menu.main]]
-    name = "リフォーム"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
     name = "原田建設について"
     url = "/about/"
     weight = 3
-
 
 [[menu.main]]
     name = "原田建設のこれまで"

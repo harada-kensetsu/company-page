@@ -1,9 +1,9 @@
 ---
 title: '安心と快適を約束します。'
 weight: 1
-background: 'images/design.jpg'
+background: ''
 button: '私たちの仕事'
-buttonLink: 'work'
+buttonLink: 'services'
 ---
 
 「家」は、家族が一生涯に渡り安心して快適な生活を送るための居場所です。お子様にとっては「ふるさと」となるでしょう。家づくりの経験と実績をコツコツと積んできた原田建設だからこそできる家づくりを、ぜひ体感して下さい。
