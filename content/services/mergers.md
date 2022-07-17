@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: '住宅関連のご相談'
 heroSubHeading: 'ご要望やお悩み等、先ずはなんでもご相談下さい。'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/harada-kensetsu-image2.jpg'
 ---
 
 「雨漏りするのでリフォームしたいがどこにどう頼めば良いか分からない」「介護の負荷を軽減するためにバリアフリー化したいが、どうすれば良いか分からない」「二階建てと平屋、それぞれの善し悪しを知りたい」等、リフォームや注文住宅、土地に関するご依頼等、なんでもご相談下さい。

@@ -7,7 +7,7 @@ draft: false
 weight: 100
 heroHeading: 'Services'
 heroSubHeading: 'Services that grow with your business'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

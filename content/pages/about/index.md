@@ -1,10 +1,10 @@
 ---
-title: '原田建設について'
-date: 2018-12-06T09:29:16+10:00
+title: 'はじめての方へ'
+date: 2022-07-11T09:29:16+09:00
 layout: 'about'
-heroHeading: '原田建設について'
-heroSubHeading: "原田建設についてご説明します"
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroHeading: 'はじめての方へ'
+heroSubHeading: "原田建設が地元埼玉で選ばれる理由"
+heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
 <div>

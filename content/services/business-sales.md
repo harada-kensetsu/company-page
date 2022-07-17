@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: '予算計画'
 heroSubHeading: '予算計画と各種お見積り'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
 ご要望のプランと予算を伺い、ご要望に対してどのようなアプローチがあるかご提案いたします。

@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: '間取り設計'
 heroSubHeading: 'ご家族の生活に沿った「世界でたった一つの間取り」を実現します。'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
 間取り設計は、弊社が委託している「高橋勇設計事務所」が間取り設計をお手伝いします。

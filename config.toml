@@ -16,33 +16,33 @@ enableRobotsTXT = true
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "原田建設は埼玉県入間市にある工務店です。"
+    meta_description = "原田建設は埼玉県・東京を中心に住宅の建築・リフォームを行っている工務店です。"
     meta_og_title = "原田建設"
     meta_og_type = "website"
     meta_og_url = "https://harada-kensetsu.github.io/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "原田建設は埼玉県入間市にある工務店です。"
+    meta_og_image = "https://harada-kensetsu.github.io/images/logo.png"
+    meta_og_description = "原田建設は埼玉県・東京を中心に住宅の建築・リフォームを行っている工務店です。"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@"
-    meta_twitter_creator = "@"
+    meta_twitter_site = "@harada_kensetsu"
+    meta_twitter_creator = "@harada_kensetsu"
 
 [[menu.main]]
-	name = "家づくりについて"
+	name = "原田建設ができること"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "原田建設について"
+    name = "はじめての方へ"
     url = "/about/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
-    name = "原田建設のこれまで"
+    name = "施工事例"
     url = "/history/"
     weight = 3
 
 [[menu.main]]
-    name = "コンタクト"
+    name = "お問い合わせ"
     url = "/contact/"
     weight = 4
 

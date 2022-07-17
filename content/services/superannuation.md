@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: '建築実例'
 heroSubHeading: '原田建設が建築した注文住宅の実例をご紹介します'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
 実際に建てた注文住宅の一例をご紹介します。

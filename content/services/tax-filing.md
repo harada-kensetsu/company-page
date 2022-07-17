@@ -7,7 +7,7 @@ featured: true
 weight: 2
 heroHeading: '家づくりの流れ'
 heroSubHeading: '家づくりの流れについてご説明します'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/harada-kensetsu-image2.jpg'
 ---
 
 はじめての家づくりで何から始めてよいか分からない方も多いはず、家づくりの流れをご紹介します。
