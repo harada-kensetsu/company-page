@@ -1,7 +1,7 @@
 ---
-title: 'こだわりの家づくり'
-date: 2018-02-10T11:52:18+07:00
-heroHeading: 'こだわりの家づくり'
-heroSubHeading: '新築注文住宅こだわりの家づくり'
-heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
+title: '原田建設ができること'
+date: 2022-07-29T11:52:18+07:00
+heroHeading: 'こだわりの家づくり・リフォーム'
+heroSubHeading: '原田建設だからこそできる、こだわりの家づくり・リフォーム'
+heroBackground: 'services/harada-kensetsu-image4.jpg'
 ---
