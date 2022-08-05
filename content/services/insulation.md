@@ -1,9 +1,10 @@
 ---
-title: '高断熱化の重要性'
-date: 2022-07-27T15:15:34+10:00
+title: "高断熱化の重要性"
+date: 2022-08-04T09:21:38+09:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
+weight: 100
 heroHeading: '住宅の断熱性を高めることの重要性'
 heroSubHeading: '日本の住宅における高断熱化による恩恵'
 heroBackground: 'services/harada-kensetsu-image2.jpg'
