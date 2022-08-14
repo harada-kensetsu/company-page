@@ -4,10 +4,12 @@ date: 2022-08-06T00:34:55+09:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-weight: 100
+weight: 3
 heroHeading: '施工事例'
 heroSubHeading: '原田建設が施工した注文住宅・中古住宅のリフォームについて事例をご紹介します'
 heroBackground: 'services/harada-kensetsu-image1.jpg'
+thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
+images: ['']
 ---
 
 弊社では、新築住宅、中古住宅のリフォームをメインに、外構工事含めて幅広く対応が可能です。
