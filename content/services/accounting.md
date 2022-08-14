@@ -10,6 +10,6 @@ heroSubHeading: 'ご家族の生活に沿った「世界でたった一つの間
 heroBackground: 'services/harada-kensetsu-image1.jpg'
 ---
 
-間取り設計は、弊社が委託している「高橋勇設計事務所」が間取り設計をお手伝いします。
+間取り設計は、弊社が委託している「高橋勇設計事務所」がお手伝いします。
 
 高橋勇設計事務所に関して、詳細は[こちら](https://www.archi-takahashi.com/)をご確認下さい。

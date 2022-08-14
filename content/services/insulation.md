@@ -1,5 +1,5 @@
 ---
-title: "高断熱化の重要性"
+title: "住宅の性能向上：高断熱化"
 date: 2022-08-04T09:21:38+09:00
 icon: 'services/service-icon-4.png'
 featured: true
@@ -23,6 +23,8 @@ heroBackground: 'services/harada-kensetsu-image2.jpg'
 断熱性能を上げることによるメリット2つ目は、 **光熱費を最適化できます。**
 
 気密が悪いと住宅の中で温めたり冷やした空気が隙間を通して外部へ流出することで、その分のエネルギーが無駄になり光熱費が余分に掛かってしまいます。
+
+厚生労働省が定義する[「建築物環境衛生管理基準」](https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei10/) の `２　空気環境の調整` には、建築物内の温度は17℃以上28℃以下、相対湿度40％以上70％以下を維持することで快適な環境を実現できる旨が記載されています。
 
 ***
 
@@ -49,6 +51,6 @@ heroBackground: 'services/harada-kensetsu-image2.jpg'
 * 玄関断熱施工
   * 玄関が結露すると白蟻被害にあいやすいので玄関断熱が有効です
 
-![気密処理したコンセント部](./kimitsu-syori.jpg)
+![気密処理したコンセント部]('./kimitsu-syori.jpg')
 
 基本的にテープ処理を行う施工で、それほど難しい処理ではありませんが、一つ一つ丁寧に処理します。
