@@ -1,6 +1,6 @@
 ---
 title: '住む人の暮らしを考えた丁寧な施工'
-date: 2018-12-06T09:29:16+10:00
+date: 2022-08-06T09:29:16+10:00
 weight: 1
 background: '/services/about-background-image.png'
 align: right

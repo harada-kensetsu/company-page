@@ -39,7 +39,7 @@ custom_css = ["css/custom-font.css"]
 
 [[menu.main]]
     name = "施工事例"
-    url = "/services/examples"
+    url = "/example/"
     weight = 3
 
 [[menu.main]]
