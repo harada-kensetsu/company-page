@@ -44,4 +44,4 @@
 // fonts
 @import 'mixins/fonts';
 
-@include font-face(F66FudeRenjyou, '../fonts/F66FudeRenjyou', null, $font-size-base, $font-weight-base, null, ttf);
+@include font-face(F66FudeRenjyou, '/css/F66FudeRenjyou.ttf', null, $font-size-base, $font-weight-base, null, ttf);

@@ -6,6 +6,7 @@ theme = "hugo-hero-theme"
 publishDir = "public"
 canonifyurls = true
 enableRobotsTXT = true
+custom_css = ["css/custom-font.css"]
 
 [module]
   [module.hugoVersion]
