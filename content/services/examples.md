@@ -25,4 +25,21 @@ images: ['']
 
 ***
 
-![施工事例1](/services/example1.png)
+埼玉県所沢市O様邸
+
+![施工事例1](/services/example.png)
+
+![施工事例2](/services/example2.png)
+
+![施工事例3](/services/example3.png)
+
+![施工事例4](/services/example4.png)
+
+- 複層樹脂サッシ (エクセルシャノン,Low-E,遮熱タイプ)
+- K4グレード一本引き引き戸
+- クリナップアクリアバス
+- クリナップステディア
+- サンワカンパニー洗面台
+- 基礎断熱 (ユニットバス下部)
+- 第三種換気
+- グラスウール14K (天井1550mm,壁850mm,床800mm)
