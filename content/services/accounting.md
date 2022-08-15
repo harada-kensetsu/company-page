@@ -153,11 +153,15 @@ heroBackground: 'services/harada-kensetsu-image1.jpg'
 
 ![屋根](/services/yane.jpg)
 
+![屋根2](/services/yane2.jpg)
+
 ## 外壁
 
 サッシではガラスの種類に応じて日射取得率の数値が変わりますが、外装材では屋根・外壁の材質と色で、日射吸収率・反射率が決まります。
 
 なるべく淡色で薄い色の方が日射取得率が低く（反射率が高く）なるため、夏は白色と黒色で15度も差が出る場合があります（白40度、黒55度）。
+
+![外壁](/services/wall.JPG)
 
 ## 床材
 
@@ -168,6 +172,8 @@ heroBackground: 'services/harada-kensetsu-image1.jpg'
 ![床](/services/yuka.JPG)
 
 ![床2](/services/yuka2.jpg)
+
+![床3](/services/yuka3.jpg)
 
 ## エアコンの位置と風向き
 
